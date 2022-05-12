@@ -1,6 +1,6 @@
 # aret_wolf
 
-[https://nasu105.github.io/psychological_test/index.html](https://nasu105.github.io/psychological_test/index.html)
+[https://nasu105.github.io/aret_wolf/index.html](https://nasu105.github.io/aret_wolf/index.html)
 
 ## プロダクトの紹介
 
