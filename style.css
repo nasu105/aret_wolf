@@ -1,0 +1,98 @@
+/* body{
+   background: yellowgreen;
+} */
+
+.wrapper{
+    /* background: wheat; */
+    width: 90%;
+    margin: 0 auto;
+}
+
+
+h1{
+    text-align: center;
+}
+
+.good{
+    align-items: center;
+}
+.hight{
+    height: 250px;
+}
+
+.gray{
+    background: lightgray;
+}
+.wolfimg{
+    width: 100px;
+    margin-left: 20px;
+}
+.radio{
+    display:flex;
+}
+
+.s-red{
+    color: red;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+.p-word{
+    font-size: 1.5rem;
+}
+
+/* ARTの文字の色ーーーーーーーーーーーーーーーーーーーーーーーー */
+.col-red{
+    color: red;
+}
+.col-blue{
+    color: skyblue;
+}
+.col-yellow{
+    color: yellow;
+}
+
+.role{
+    background: lightgray;
+}
+
+
+<<<<<<< HEAD
+/* canvas-------------------------------------------------------- */
+.can_text a{
+    font-size: 2rem;
+}
+
+/* キャンバスのナビ----------------------------------------------------------- */
+.navbar h2{
+    color:yellow;
+    font-size: 2rem;
+}
+
+/*キャンバスの背景------------------------------------------------------------- */
+.wrapper2{
+    background-image: url(img/art3.jpg);
+    background: cover;
+}
+.canvas_back{
+    background: white;
+}
+
+/* フッターもじ-------------------------------------------------------------------------- */
+#discussion{
+    font-size: 1.5rem;
+    color: red;
+}
+
+/* index.htmlの調整-------------------------------------------------------------------------------- */
+.minority {
+    outline: none;
+}
+.majority {
+    outline: none;
+}
+.minority_box {
+    background: none;
+}
+.majority_box{
+    background: none;
+}
